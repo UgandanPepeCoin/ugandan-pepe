@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://ugandanpepe.com.com</homePageLink>
+		<homePageLink>https://memeseasoncoin.com</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://ugandanpepe.com.com/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://ugandanpepe.com.com/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://ugandanpepe.com.com/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://ugandanpepe.com.com/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://ugandanpepe.com.com/index.php?rest_route=/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://memeseasoncoin.com/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://memeseasoncoin.com/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://memeseasoncoin.com/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://memeseasoncoin.com/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://memeseasoncoin.com/index.php?rest_route=/" />
 			</apis>
 	</service>
 </rsd>
